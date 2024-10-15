@@ -2,14 +2,14 @@
 
 ## Description
 
-This is a brief description of my project. It outlines its purpose, features, and any relevant details to help users understand what it does. Just a simple web server
+This is a brief description of my project. It outlines its purpose, features, and any relevant details to help users understand what it does. Just a simple web server, personal.
 
 ## Installation
 
-Instructions on how to install and set up the project. There is no installation
+Instructions on how to install and set up the project. There is no installation...
 
 
-License
+## License
 This project is licensed under the following terms:
 
 Important Note: This code is not open for unrestricted use. By using this code, you agree to adhere to the terms outlined below:
