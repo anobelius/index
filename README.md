@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a brief description of my project. It outlines its purpose, features, and any relevant details to help users understand what it does. Just a simple web server, personal.
+This is a brief description of my project. It outlines its purpose, features, and any relevant details to help users understand what it does. It's just a website.
 
 ## Installation
 
